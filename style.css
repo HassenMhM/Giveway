@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(168, 167, 63);
+}
+img{
+    height: 400px;
+    width: 590px;
+    border: 10px solid rgb(168, 167, 63);
+    border-radius: 20px;
+    margin-top: 20px;
+}
+a{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: rgb(168, 167, 63);
+    color: black;
+    font-size: 22px;
+    border-radius: 20px;
+}
+body{
+    background-color: rgb(2, 1, 1);
+}
